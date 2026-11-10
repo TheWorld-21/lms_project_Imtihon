@@ -1,0 +1,10 @@
+[11/5/2026, 6:38:11 PM]-GET-/api/v1/staff-ReferenceError: a is not defined[11/8/2026, 4:06:23 PM]-POST-/api/v1/auth/login-req is not defined[11/8/2026, 4:09:01 PM]-POST-/api/v1/auth/login-req is not defined[11/8/2026, 4:09:58 PM]-POST-/api/v1/auth/login-Cannot read properties of undefined (reading 'status')[11/8/2026, 4:21:10 PM]-POST-/api/v1/auth/login-pchstr must be a non-empty string[11/8/2026, 4:23:12 PM]-POST-/api/v1/auth/login-pchstr must be a non-empty string[11/8/2026, 4:25:10 PM]-POST-/api/v1/auth/login-pchstr must be a non-empty string[11/8/2026, 4:25:12 PM]-POST-/api/v1/auth/login-pchstr must be a non-empty string[11/8/2026, 4:25:13 PM]-POST-/api/v1/auth/login-pchstr must be a non-empty string[11/8/2026, 4:25:14 PM]-POST-/api/v1/auth/login-pchstr must be a non-empty string[11/8/2026, 4:25:28 PM]-POST-/api/v1/auth/login-pchstr must be a non-empty string[11/9/2026, 7:00:36 PM]-POST-/api/v1/auth/login-pchstr must be a non-empty string[11/10/2026, 2:02:24 PM]-POST-/api/v1/teacher-error: syntax error at or near "$1"
+[11/10/2026, 2:03:52 PM]-POST-/api/v1/teacher-error: null value in column "fullname" of relation "teachers" violates not-null constraint
+[11/10/2026, 2:04:17 PM]-POST-/api/v1/teacher-error: duplicate key value violates unique constraint "teachers_phone_key"
+[11/10/2026, 4:02:27 PM]-POST-/api/v1/staff-database "lms" does not exist
+[11/10/2026, 4:04:31 PM]-POST-/api/v1/staff-database "lms" does not exist
+[11/10/2026, 4:07:27 PM]-POST-/api/v1/staff-database "lms" does not exist
+[11/10/2026, 4:08:38 PM]-POST-/api/v1/staff-database "lms" does not exist
+[11/10/2026, 4:08:39 PM]-POST-/api/v1/staff-database "lms" does not exist
+[11/10/2026, 4:09:43 PM]-POST-/api/v1/staff-relation "staff" does not exist
+[11/10/2026, 4:09:44 PM]-POST-/api/v1/staff-relation "staff" does not exist
